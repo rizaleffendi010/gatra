@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.civicdatalab.in/naikpuh/sitemap.xml
